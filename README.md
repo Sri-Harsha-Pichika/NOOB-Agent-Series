@@ -96,7 +96,7 @@ Pull request process and review checklist.
 
 We follow the We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
-## Security
+## Security
 If you discover a vulnerability, please see SECURITY.md for responsible disclosure guidelines. Do not open public issues for sensitive security problems.
 
 ## License
