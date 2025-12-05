@@ -43,11 +43,19 @@ Each agent embodies a distinct philosophy:
 ## Repository Structure
 ```plaintext
 NOOB-Agents-Series/  
-├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID  
-│   ├── NOOB.md  
-│   ├── NOOB++.md  
-│   ├── NOOB-OMEGA.md  
-│   └── NOOB-HYBRID.md  
+├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID     
+|   └── [NOOB](NOOB/)                                           # NOOB description and instructions 
+│       └── NOOB.md
+|       └── NOOB.txt  
+|   └── [NOOB++](NOOB++/)                                       # NOOB++ description and instructions  
+│       └── NOOB++.md
+|       └── NOOB++.txt  
+|   └── [NOOB-Ω](NOOB-Ω/)                                       # NOOB-Ω description and instructions   
+│       └── NOOB-Ω.md
+|       └── NOOB-Ω.txt  
+|   └── [NOOB-HYBRID](NOOB-HYBRID/)                             # NOOB-HYBRID description and instructions   
+│       └── NOOB-HYBRID.md
+|       └── NOOB-HYBRID.txt  
 ├── [docs](docs/)                                               # Knowledge Base Article (KBA), usage guides  
 │   └── KBA.md  
 ├── [examples](examples/)                                       # Sample prompts and outputs  
@@ -57,8 +65,8 @@ NOOB-Agents-Series/
 ├── [workflow-diagrams](workflow-diagrams/)                     # Workflow diagrams (draw.io exports)  
 │   ├── noob-workflows.png  
 │   └── verification-layer.png  
-├── [README.md](README.md) — This file  
-├── [LICENSE](LICENSE) — Apache 2.0 license  
+├── [README.md](README.md)                                      # README file  
+├── [LICENSE](LICENSE)                                          # Apache 2.0 license  
 ├── [CONTRIBUTING.md](CONTRIBUTING.md)                          # Contribution guidelines  
 ├── [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)                    # Community standards  
 ├── [SECURITY.md](SECURITY.md)                                  # Security policy  
