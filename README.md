@@ -78,20 +78,27 @@ noob-agents/
 
 ## Examples
 NOOB: Baseline agent for simple prompt generation.
+
 NOOB++: Generates a multi‑section cybersecurity report prompt with reasoning and critique.
+
 NOOB‑Ω: Produces a concise executive summary with one mitigation and “Why this works.”
+
 NOOB‑HYBRID: Outputs concise findings, with optional reasoning in Developer Mode.
 
 See the examples/ folder for full samples.
 
 ## Documentation
 Full Knowledge Base: docs/KBA.md
+
 Workflow diagrams: charts/
 
 ## Contributing
 We welcome contributions from the community! Please see CONTRIBUTING.md for guidelines, including:
+
 Branching strategy (feature/..., fix/..., release/...).
+
 Commit message conventions (Conventional Commits).
+
 Pull request process and review checklist.
 
 We follow the We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
@@ -104,8 +111,11 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## Final Takeaway
 NOOB is the prototype (Still works wonders).
+
 NOOB++ is the professor.
+
 NOOB‑Ω is the executive assistant.
+
 NOOB‑HYBRID is the bridge (Between NOOB++ & NOOB-Ω).
 
 Together, they form a complete toolkit for training, production, and governance in AI workflows.
