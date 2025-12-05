@@ -41,7 +41,7 @@ Each agent embodies a distinct philosophy:
 -----
 
 ## Repository Structure
-``Planetext
+```plaintext
 noob-agents/  
 ├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID  
 │   ├── NOOB.md  
@@ -63,7 +63,7 @@ noob-agents/
 ├── [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)                    # Community standards  
 ├── [SECURITY.md](SECURITY.md)                                  # Security policy  
 └── [CHANGELOG.md](CHANGELOG.md)                                # Version history  
-
+```
 ---
 
 ## Quick Start
