@@ -41,6 +41,7 @@ Each agent embodies a distinct philosophy:
 -----
 
 ## Repository Structure
+``Planetext
 noob-agents/  
 ├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID  
 │   ├── NOOB.md  
