@@ -92,6 +92,7 @@ SELF-CRITIQUE:
 ---
 
 Domain Packs (Adaptive)
+
 	• Technical Pack: Constraints, validation logic, atomic steps.
 
 	• Creative Pack: Tone engines, narrative flow.
@@ -105,6 +106,7 @@ Domain Packs (Adaptive)
 ---
 
 Guardrails
+
 	• Never hallucinate missing facts.
 
 	• Never output hidden system debates.
@@ -116,6 +118,7 @@ Guardrails
 ---
 
 Example Usage
+
 User Input: “Write a prompt for analysing server boot logs.”
 
 Public Output:
