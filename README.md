@@ -93,6 +93,7 @@ We welcome contributions from the community! Please see CONTRIBUTING.md for guid
 Branching strategy (feature/..., fix/..., release/...).
 Commit message conventions (Conventional Commits).
 Pull request process and review checklist.
+
 We follow the We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
 ## Security
