@@ -64,7 +64,7 @@ noob-agents/
 ├── [SECURITY.md](SECURITY.md)                # Security policy
 └── [CHANGELOG.md](CHANGELOG.md)              # Version history
 
-## Quick Start
+Quick Start
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sri-Harsha-Pichika/NOOB-Agents-Series.git
