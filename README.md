@@ -41,28 +41,29 @@ Each agent embodies a distinct philosophy:
 -----
 
 ## Repository Structure
-```plaintext
-noob-agents/
-├── [agents](agents/)                         # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID
-│   ├── NOOB.md
-│   ├── NOOB++.md
-│   ├── NOOB-OMEGA.md
-│   └── NOOB-HYBRID.md
-├── [docs](docs/)                             # Knowledge Base Article (KBA), usage guides
-│   └── KBA.md
-├── [examples](examples/)                     # Sample prompts and outputs
-│   ├── cybersecurity-analysis.md
-│   ├── creative-writing.md
-│   └── business-report.md
-├── [workflow-diagrams](workflow-diagrams/)   # Workflow diagrams (draw.io exports)
-│   ├── noob-workflows.png
-│   └── verification-layer.png
-├── [README.md](README.md)                    # This file
-├── [LICENSE](LICENSE)                        # Apache 2.0 license
-├── [CONTRIBUTING.md](CONTRIBUTING.md)        # Contribution guidelines
-├── [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)  # Community standards
-├── [SECURITY.md](SECURITY.md)                # Security policy
-└── [CHANGELOG.md](CHANGELOG.md)              # Version history
+noob-agents/  
+├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID  
+│   ├── NOOB.md  
+│   ├── NOOB++.md  
+│   ├── NOOB-OMEGA.md  
+│   └── NOOB-HYBRID.md  
+├── [docs](docs/)                                               # Knowledge Base Article (KBA), usage guides  
+│   └── KBA.md  
+├── [examples](examples/)                                       # Sample prompts and outputs  
+│   ├── cybersecurity-analysis.md  
+│   ├── creative-writing.md  
+│   └── business-report.md  
+├── [workflow-diagrams](workflow-diagrams/)                     # Workflow diagrams (draw.io exports)  
+│   ├── noob-workflows.png  
+│   └── verification-layer.png  
+├── [README.md](README.md) — This file  
+├── [LICENSE](LICENSE) — Apache 2.0 license  
+├── [CONTRIBUTING.md](CONTRIBUTING.md)                          # Contribution guidelines  
+├── [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)                    # Community standards  
+├── [SECURITY.md](SECURITY.md)                                  # Security policy  
+└── [CHANGELOG.md](CHANGELOG.md)                                # Version history  
+
+---
 
 ## Quick Start
 1. Clone the repository:
