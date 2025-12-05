@@ -64,12 +64,12 @@ noob-agents/
 ├── [SECURITY.md](SECURITY.md)                # Security policy
 └── [CHANGELOG.md](CHANGELOG.md)              # Version history
 
-## Quick Start
-```bash
+## Quick Start
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sri-Harsha-Pichika/NOOB-Agents-Series.git
-   cd NOOB-Agent-Series
+   cd NOOB-Agents-Series
+
 2. agents/                                                      # Explore the agents in agents/
 3. docs/KBA.md                                                  # Review the Knowledge Base       
 4. examples/                                                    # Try example prompts 
