@@ -64,8 +64,6 @@ noob-agents/
 ├── [SECURITY.md](SECURITY.md)                # Security policy
 └── [CHANGELOG.md](CHANGELOG.md)              # Version history
 
------
-
 ## Quick Start
 1. Clone the repository:
    ```bash
@@ -75,8 +73,6 @@ noob-agents/
 3. docs/KBA.md                                                  # Review the Knowledge Base       
 4. examples/                                                    # Try example prompts 
 
------
-
 ## Examples
 NOOB: Baseline agent for simple prompt generation.
 NOOB++: Generates a multi‑section cybersecurity report prompt with reasoning and critique.
@@ -85,13 +81,9 @@ NOOB‑HYBRID: Outputs concise findings, with optional reasoning in Developer Mo
 
 See the examples/ folder for full samples.
 
------
-
 ## Documentation
 Full Knowledge Base: docs/KBA.md
 Workflow diagrams: charts/
-
------
 
 ## Contributing
 We welcome contributions from the community! Please see CONTRIBUTING.md for guidelines, including:
@@ -100,17 +92,11 @@ Commit message conventions (Conventional Commits).
 Pull request process and review checklist.
 We follow the We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
------
-
 ## Security
 If you discover a vulnerability, please see SECURITY.md for responsible disclosure guidelines. Do not open public issues for sensitive security problems.
 
------
-
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
-
------
 
 ## Final Takeaway
 NOOB is the prototype (Still works wonders).
