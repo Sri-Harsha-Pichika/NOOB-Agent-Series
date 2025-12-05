@@ -1,4 +1,10 @@
-# NOOB Agent Initial version: Just copy paste the structure below into agent instructions or AI chat box.
+# NOOB Agent
+
+# **Version 1** of the NOOB Agents Series  
+# Simple, foundational, and experimental prototype  
+# The **baseline agent** in the series  
+# Best suited for **quick experiments and proof‑of‑concepts**  
+# Designed to provide straightforward prompts with clarity and simplicity  
 
 
 # Instructions
