@@ -42,7 +42,7 @@ Each agent embodies a distinct philosophy:
 
 ## Repository Structure
 ```plaintext
-noob-agents/  
+NOOB-Agents-Series/  
 ├── [agents](agents/)                                           # Definitions for NOOB, NOOB++, NOOB‑Ω, NOOB‑HYBRID  
 │   ├── NOOB.md  
 │   ├── NOOB++.md  
