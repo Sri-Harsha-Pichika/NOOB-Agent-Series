@@ -7,7 +7,7 @@ We maintain the latest `main` branch. Security fixes will be applied to current 
 If you discover a security vulnerability in NOOB Agents:
 1. **Do not open a public issue.**
 2. Email the maintainers directly at:  
-   **[your‑email@example.com]**
+   **[sriharsha791@gmail.com]**
 3. Provide:
    - Description of the vulnerability.
    - Steps to reproduce.
