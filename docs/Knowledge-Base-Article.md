@@ -69,7 +69,10 @@ The **NOOB family of agents** are meta‑level prompt generation engines designe
 
 **Output Style**
 ```plaintext
-YOUR OPTIMISED PROMPT: [Final prompt]
+YOUR OPTIMISED PROMPT: 
+
+[Final prompt]
+
 
 WHY THIS WORKS:
 
@@ -135,7 +138,10 @@ Benefit 3
 
 **Output Style**
 ```plaintext
-YOUR OPTIMISED PROMPT: [Final engineered prompt]
+YOUR OPTIMISED PROMPT: 
+
+[Final engineered prompt]
+
 
 WHY THIS WORKS:
 
