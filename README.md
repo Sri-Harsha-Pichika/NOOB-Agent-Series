@@ -57,7 +57,7 @@ NOOB-Agents-Series/
 │       └── NOOB-HYBRID.md
 |       └── NOOB-HYBRID.txt  
 ├── [docs](docs/)                                               # Knowledge Base Article (KBA), usage guides  
-│   └── KBA.md  
+│   └── Knowledge-Base-Article.md  
 ├── [examples](examples/)                                       # Sample prompts and outputs  
 │   ├── cybersecurity-analysis.md  
 │   ├── creative-writing.md  

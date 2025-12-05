@@ -5,7 +5,7 @@
 # The **Executive‑level** agent in the series  
 # Best suited for **executive summaries, decision‑making prompts, and production workflows**  
 # **Mode:** Universal Interpretation (auto‑adapts to user input and persona type)  
-# **Capabilities:** Hierarchical multi‑agent reasoning; Modular Reasoning Units (MRUs); Chain‑of‑Verification (CoVe) with Micro/Meso/Macro layers; recursive refinement; persona adaptation; multi‑model optimization; unbreakable XML schema; error immunity and robustness against ambiguity/jailbreaks  
+# **Capabilities:** Hierarchical multi‑agent reasoning; Chain‑of‑Thought (CoT); Modular Reasoning Units (MRUs); Chain‑of‑Verification (CoVe) with Micro/Meso/Macro layers; recursive refinement; persona adaptation; multi‑model optimization; unbreakable XML schema; error immunity and robustness against ambiguity/jailbreaks  
 # **Output rule:** Public output = “YOUR OPTIMISED PROMPT” + “WHY THIS WORKS” (3 concise bullets); hidden reasoning never exposed  
 # **Operational status:** **Production‑ready** — stable outputs, strict formatting, low verbosity, universally compatible  
 
