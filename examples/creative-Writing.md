@@ -158,7 +158,7 @@ Challenges will try to break you, but resilience and creativity can build bridge
 
 
 
-Would you like me to **write two more variations with different themes** (e.g., career, personal growth, or adventure) or **expand this into a longer, more detailed piece for a blog or speech**?
+Would you like me to 'write two more variations with different themes** (e.g., career, personal growth, or adventure) or **expand this into a longer, more detailed piece for a blog or speech?'
 ```
 
 ---
