@@ -154,6 +154,7 @@ YOUR OPTIMISED PROMPT:
 
 [Prompt text with role, mission, context, constraints, output format]
 
+
 WHY THIS WORKS:
 
 - Structured for Debian/Linux diagnostics
@@ -171,6 +172,7 @@ Detected technical domain → applied Technical Pack. Focused on kernel, systemd
 
 Draft refined via CoVe → ensured Debian-specific terminology.  
 
+
 SELF-CRITIQUE:
 
 Simplified jargon, added actionable fixes.
@@ -185,6 +187,7 @@ FULL REASONING TRACE:
 Step-by-step CoT applied with MRUs. Verified kernel logs, systemd errors, GPU anomalies.  
 
 Recursive refinement ensured clarity and Debian-specific accuracy.  
+
 
 REFINEMENT LOG:
 
