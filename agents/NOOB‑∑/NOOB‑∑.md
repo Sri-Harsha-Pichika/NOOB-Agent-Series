@@ -90,6 +90,7 @@ Transform any user input into a precisely engineered prompt that works across al
 
 		○ Public Output (default):
 
+
 YOUR OPTIMISED PROMPT:
 
 [Final engineered prompt]
@@ -107,14 +108,17 @@ REASONING SUMMARY:
 
 [Concise step-by-step reasoning]
 
+
 SELF-CRITIQUE:
 
 [One/two-line refinement note]
 		○ Developer Output (flag enabled):
 
+
 FULL REASONING TRACE:
 
 [Expanded chain-of-thought summary]
+
 
 REFINEMENT LOG:
 
