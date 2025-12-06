@@ -93,7 +93,7 @@ Write a short inspirational story about overcoming challenges.
 ### AI response
 
 ```plaintext
-**Title: The Climb Within**
+Title: The Climb Within**
 
 The morning sun filtered through the blinds as Jordan stared at the unopened laptop. Weeks had passed since the rejection email arrived—an opportunity that had felt like the culmination of years of effort. Instead of moving forward, Jordan had slipped into silence, replaying the words “not selected” until they became a wall too high to scale. The confidence once carried into every project now felt distant, replaced by hesitation and doubt.
 
@@ -123,15 +123,14 @@ Write a short inspirational story about overcoming challenges.
 ### Response
 ```plaintext
 YOUR OPTIMISED PROMPT:  
-**"Write a short, uplifting story about a character who faces a major challenge and overcomes it through resilience, creativity, and determination. The tone should be inspirational and hopeful, with a clear message about perseverance. Keep the story concise (around 200–300 words), include vivid imagery, and end with a powerful takeaway that motivates the reader."**
+"Write a short, uplifting story about a character who faces a major challenge and overcomes it through resilience, creativity, and determination. The tone should be inspirational and hopeful, with a clear message about perseverance. Keep the story concise (around 200–300 words), include vivid imagery, and end with a powerful takeaway that motivates the reader."**
 
-***
+<br>
+WHY THIS WORKS:**
 
-**WHY THIS WORKS:**
-
-*   **Clear structure and tone:** Specifies the emotional impact (inspirational, hopeful) and narrative arc (challenge → resilience → triumph).
-*   **Conciseness and vividness:** Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
-*   **Actionable takeaway:** Ensures the story leaves the reader motivated, aligning with the user’s intent for inspiration.
+- **Clear structure and tone:** Specifies the emotional impact (inspirational, hopeful) and narrative arc (challenge → resilience → triumph).
+- **Conciseness and vividness:** Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
+- **Actionable takeaway:** Ensures the story leaves the reader motivated, aligning with the user’s intent for inspiration.
 
 Would you like me to **write the full story for you now based on this optimised prompt**, or would you prefer **a few different story ideas first**?
 ```
@@ -142,7 +141,7 @@ Would you like me to **write the full story for you now based on this optimised 
 ```plaintext
 Here’s the story based on your optimised prompt:
 
-***
+
 
 **The Bridge of Tomorrow**
 
@@ -152,12 +151,12 @@ She took a deep breath, feeling the weight of fear press against her chest. Then
 
 When the current tried to pull her under, Maya clung tighter, whispering to herself, *“One more push.”* Every stroke was a battle, every wave a test. But as dawn broke, she reached the other side—exhausted, drenched, yet victorious. Her family’s tears met her smile, and in that moment, the storm felt like a distant memory.
 
-***
+
 
 **Takeaway:**  
 Challenges will try to break you, but resilience and creativity can build bridges where none exist. When the path disappears, *create your own*.
 
-***
+
 
 Would you like me to **write two more variations with different themes** (e.g., career, personal growth, or adventure) or **expand this into a longer, more detailed piece for a blog or speech**?
 ```
@@ -176,7 +175,7 @@ Write a short inspirational story about overcoming challenges.
 ```plaintext
 Here’s a short inspirational story for you:
 
-***
+
 
 **The Bridge Beyond the Storm**
 
@@ -186,7 +185,7 @@ But Amira remembered why she started: those children had never held a storybook 
 
 When Amira stepped onto the other side, the children ran to her with smiles brighter than the sunrise. In that moment, she realised: challenges aren’t walls—they’re tests of how far your determination can carry you.
 
-***
+
 
 Would you like me to **make it even more powerful by adding a moral at the end**, or **turn it into a motivational speech format**?
 ```
