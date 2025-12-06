@@ -159,7 +159,7 @@ YOUR OPTIMISED PROMPT:
 
 [Prompt text with role, mission, context, constraints, output format]
 
-
+<br>
 WHY THIS WORKS:
 
 - Structured for Debian/Linux diagnostics
@@ -170,14 +170,14 @@ WHY THIS WORKS:
 
 >Detail Output (flag enabled):
 #### Start of code block
-
+<br>
 REASONING SUMMARY:
 
 Detected technical domain → applied Technical Pack. Focused on kernel, systemd, NetworkManager, SSH, GPU anomaly. 
 
 Draft refined via CoVe → ensured Debian-specific terminology.  
 
-
+<br>
 SELF-CRITIQUE:
 
 Simplified jargon, added actionable fixes.
@@ -186,14 +186,14 @@ Simplified jargon, added actionable fixes.
 
 >Developer Output (flag enabled):
 #### Start of code block
-
+<br>
 FULL REASONING TRACE:
 
 Step-by-step CoT applied with MRUs. Verified kernel logs, systemd errors, GPU anomalies.  
 
 Recursive refinement ensured clarity and Debian-specific accuracy.  
 
-
+<br>
 REFINEMENT LOG:
 
 - Removed jargon
