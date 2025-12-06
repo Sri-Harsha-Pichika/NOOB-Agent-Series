@@ -128,9 +128,9 @@ YOUR OPTIMISED PROMPT:
 
 WHY THIS WORKS:
 
-- **Clear structure and tone:** Specifies the emotional impact (inspirational, hopeful) and narrative arc (challenge → resilience → triumph).
-- **Conciseness and vividness:** Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
-- **Actionable takeaway:** Ensures the story leaves the reader motivated, aligning with the user’s intent for inspiration.
+- Clear structure and tone: Specifies the emotional impact (inspirational, hopeful) and narrative arc (challenge → resilience → triumph).
+- Conciseness and vividness: Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
+- Actionable takeaway: Ensures the story leaves the reader motivated, aligning with the user’s intent for inspiration.
 
 Would you like me to **write the full story for you now based on this optimised prompt**, or would you prefer **a few different story ideas first**?
 ```
