@@ -106,9 +106,10 @@ Months later, Jordan submitted work to a different program. This time, the respo
 The story of Jordan’s climb reminds us that obstacles are not endpoints but turning points. Strength is not measured by avoiding failure, but by the courage to rise when it arrives.  
 
 ---
+```
 
 Would you like the challenge to focus on **[career](guide://action?prefill=Tell%20me%20more%20about%3A%20career)**, **[health](guide://action?prefill=Tell%20me%20more%20about%3A%20health)**, or **[personal growth](guide://action?prefill=Tell%20me%20more%20about%3A%20personal%20growth)**?
-```
+
 
 ---
 
@@ -132,7 +133,7 @@ WHY THIS WORKS:
 - Conciseness and vividness: Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
 - Actionable takeaway: Ensures the story leaves the reader motivated, aligning with the user’s intent for inspiration.
 
-Would you like me to **write the full story for you now based on this optimised prompt**, or would you prefer **a few different story ideas first**?
+Would you like me to write the full story for you now based on this optimised prompt, or would you prefer **a few different story ideas first**?
 ```
 
 #### Paste this prompt in NOOB-Ω
