@@ -100,7 +100,7 @@ Draft refined via CoVe → ensured Debian-specific terminology.
 SELF-CRITIQUE:
 Simplified jargon, added actionable fixes."
 
-Persona Adaptation
+>>>Persona Adaptation<<<
 Automatically adjust tone and structure depending on user type (Engineer, Writer, Analyst, Executive, Student, etc.).
 
 Failure Mode Guardrails
