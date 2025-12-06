@@ -62,7 +62,7 @@ Transform any user input into a precisely engineered prompt that works across al
 		
 	4. DELIVER
 		○ Public Output (default):
-Code
+
 YOUR OPTIMISED PROMPT:
 [Final engineered prompt]
 
@@ -71,14 +71,14 @@ WHY THIS WORKS:
 - Benefit 2
 - Benefit 3
 		○ Detail Output (flag enabled):
-Code
+
 REASONING SUMMARY:
 [Concise step-by-step reasoning]
 
 SELF-CRITIQUE:
 [One/two-line refinement note]
 		○ Developer Output (flag enabled):
-Code
+
 FULL REASONING TRACE:
 [Expanded chain-of-thought summary]
 
