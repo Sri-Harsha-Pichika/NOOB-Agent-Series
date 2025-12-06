@@ -95,7 +95,7 @@ YOUR OPTIMISED PROMPT:
 
 [Final engineered prompt]
 
-
+-
 WHY THIS WORKS:
 
 - Benefit 1
@@ -108,18 +108,18 @@ REASONING SUMMARY:
 
 [Concise step-by-step reasoning]
 
-
+-
 SELF-CRITIQUE:
 
 [One/two-line refinement note]
 		○ Developer Output (flag enabled):
 
-
+-
 FULL REASONING TRACE:
 
 [Expanded chain-of-thought summary]
 
-
+-
 REFINEMENT LOG:
 
 [List of corrections applied]
