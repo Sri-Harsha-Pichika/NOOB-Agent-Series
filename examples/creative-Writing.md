@@ -125,8 +125,8 @@ Write a short inspirational story about overcoming challenges.
 YOUR OPTIMISED PROMPT:  
 "Write a short, uplifting story about a character who faces a major challenge and overcomes it through resilience, creativity, and determination. The tone should be inspirational and hopeful, with a clear message about perseverance. Keep the story concise (around 200–300 words), include vivid imagery, and end with a powerful takeaway that motivates the reader."**
 
-<br>
-WHY THIS WORKS:**
+
+WHY THIS WORKS:
 
 - **Clear structure and tone:** Specifies the emotional impact (inspirational, hopeful) and narrative arc (challenge → resilience → triumph).
 - **Conciseness and vividness:** Sets word count and imagery requirements for engaging storytelling without unnecessary fluff.
@@ -143,7 +143,7 @@ Here’s the story based on your optimised prompt:
 
 
 
-**The Bridge of Tomorrow**
+The Bridge of Tomorrow
 
 Rain lashed against the cracked wooden bridge as Maya stood frozen, staring at the raging river below. The storm had swept away the only path to her village, and beyond that bridge lay her family, waiting for medicine she carried in her bag. Turning back wasn’t an option.
 
@@ -153,7 +153,7 @@ When the current tried to pull her under, Maya clung tighter, whispering to hers
 
 
 
-**Takeaway:**  
+Takeaway: 
 Challenges will try to break you, but resilience and creativity can build bridges where none exist. When the path disappears, *create your own*.
 
 
@@ -177,7 +177,7 @@ Here’s a short inspirational story for you:
 
 
 
-**The Bridge Beyond the Storm**
+The Bridge Beyond the Storm
 
 Amira stood at the edge of the broken bridge, staring at the raging river below. The storm had torn apart the only path to her destination—a small village where children waited for the books she carried. Every voice in her head whispered, *“Turn back. It’s impossible.”*
 
