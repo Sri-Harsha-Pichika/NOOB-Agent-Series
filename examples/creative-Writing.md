@@ -6,7 +6,6 @@
 - For simplicity and ease of comparision we wil use the same prompts on **Copilot**, **ChatGPT** and **NOOB Series Agents**, to see who performs well.
 - The prompt we will use on all AI and Agents in this is **Write a short inspirational story about overcoming challenges.**.
 - The structure for Agents will be in this format: **User Prompt** --> **Agent response** --> **Paste Agent prompt on AI** --> **AI Response**
-- The structure for AI will be in a simple format: **User Prompt** --> **AI Response** --> **Back & Forth after that**
 
 ---
 
@@ -143,7 +142,6 @@ Would you like me to write the full story for you now based on this optimised pr
 Here’s the story based on your optimised prompt:
 
 
-
 The Bridge of Tomorrow
 
 Rain lashed against the cracked wooden bridge as Maya stood frozen, staring at the raging river below. The storm had swept away the only path to her village, and beyond that bridge lay her family, waiting for medicine she carried in her bag. Turning back wasn’t an option.
@@ -177,7 +175,6 @@ Write a short inspirational story about overcoming challenges.
 Here’s a short inspirational story for you:
 
 
-
 The Bridge Beyond the Storm
 
 Amira stood at the edge of the broken bridge, staring at the raging river below. The storm had torn apart the only path to her destination—a small village where children waited for the books she carried. Every voice in her head whispered, *“Turn back. It’s impossible.”*
@@ -190,4 +187,32 @@ When Amira stepped onto the other side, the children ran to her with smiles brig
 
 Would you like me to **make it even more powerful by adding a moral at the end**, or **turn it into a motivational speech format**?
 ```
+
+---
+
+## NOOB-∑
+
+### User Prompt
+
+```plaintext
+Write a short inspirational story about overcoming challenges.
+```
+
+### Response
+```plaintext
+Here’s a short inspirational story for you:
+
+
+The Bridge Beyond the Storm
+
+Amira stood at the edge of the broken bridge, staring at the raging river below. The storm had swept away the only path to her destination - a small village where children waited for the books she carried. Every voice in her head whispered, “Turn back. It’s impossible.”
+
+But Amira remembered why she started: those children had never held a storybook before. She took a deep breath, gathered fallen branches, and began building a makeshift crossing. Her hands blistered, her clothes soaked, yet she pressed on. Hours later, with trembling legs, she stepped onto the other side.
+
+When she arrived, the children’s eyes lit up like lanterns in the dark. In that moment, Amira realised something powerful: challenges aren’t walls - they’re bridges waiting to be built.
+
+
+Would you like me to expand this into a longer story, turn it into a motivational speech, or create a version with a modern workplace twist?
+```
+
 #### Both NOOB-Ω and NOOB-HYBRID use the structure defined in them to do the thing you want unlike normal AI Chat Bots
