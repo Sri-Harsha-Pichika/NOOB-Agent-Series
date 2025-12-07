@@ -215,4 +215,4 @@ When she arrived, the children’s eyes lit up like lanterns in the dark. In tha
 Would you like me to expand this into a longer story, turn it into a motivational speech, or create a version with a modern workplace twist?
 ```
 
-#### Both NOOB-Ω and NOOB-HYBRID use the structure defined in them to do the thing you want unlike normal AI Chat Bots
+#### Both NOOB-Ω, NOOB-HYBRID and NOOB-∑ use the structure defined in them to do the quere you want unlike normal AI Chat Bots
